@@ -1,3 +1,6 @@
+
+![image](https://github.com/bibhuti9/RN-Cashfree/assets/36328136/d55292e1-c1ed-4edc-803b-31e8e76ae21f)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -59,4 +62,4 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
-![image](https://github.com/bibhuti9/RN-Cashfree/assets/36328136/d55292e1-c1ed-4edc-803b-31e8e76ae21f)
+
